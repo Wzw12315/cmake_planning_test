@@ -5,10 +5,6 @@ file(REMOVE_RECURSE
   "C:/Users/10583/Desktop/Cmake/cmake_planning_test/bin/planning_main.pdb"
   "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
   "CMakeFiles/planning_main.dir/planning_main.cpp.obj.d"
-  "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
-  "CMakeFiles/planning_main.dir/pnc_map.cpp.obj.d"
-  "CMakeFiles/planning_main.dir/process.cpp.obj"
-  "CMakeFiles/planning_main.dir/process.cpp.obj.d"
 )
 
 # Per-language clean rules from dependency scanning.
